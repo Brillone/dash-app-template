@@ -1,0 +1,38 @@
+{
+  "Production": {
+    "reader_config": {
+    },
+    "scheduler_config": {
+      "dates": [
+        {
+          "day": "daily",
+          "hour": 9
+        }
+      ]
+    }
+  },
+  "Staging": {
+    "reader_config": {
+    },
+    "scheduler_config": {
+      "dates": [
+        {
+          "day": "daily",
+          "hour": 9
+        }
+      ]
+    }
+  },
+  "Development": {
+    "reader_config": {
+    },
+    "scheduler_config": {
+      "dates": [
+        {
+          "day": "daily",
+          "hour": 9
+        }
+      ]
+    }
+  }
+}
