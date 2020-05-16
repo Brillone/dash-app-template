@@ -9,10 +9,13 @@
 ###################
 *.log
 
-# config files #
+# IDEA config files #
 ###################
-#.pytest_cache/
-#.idea/
+*/.idea/workspace.xml
+*/.idea/tasks.xml
+
+# bytecode #
+############
 __pycache__/
 
 # Notebooks files #
