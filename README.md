@@ -27,7 +27,7 @@ The dash_app dir contains the app template. The following steps need to be imple
 
 
 ## 1. App Structure
-
+```
 dash_app/ # project dir
 │
 ├── assets/ # app static assets
@@ -44,7 +44,7 @@ dash_app/ # project dir
 ├── schedule.py # schedule module for data updates
 ├── server.py # serving with waitress
 ├── setting.py # app configuration: logger, env vars and config file.
-
+```
 
 ## 2. Examples
 
